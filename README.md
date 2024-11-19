@@ -4,5 +4,10 @@ This project uses Tableau to visualize passenger ratings for airlines, providing
 
 The Tableau dashboard provides a comprehensive view of airline passenger ratings, with the aim to help identify key areas of improvement and measure overall customer satisfaction. The project includes Map Visualization, Bar Charts, Filters, Detailed Insights.
 
+This repository contains two main files:
+
+Raw Data File: A files with the unprocessed sales data Countries.csv , lot_reviews.csv
+Prepared File: A ready-to-use file with cleaned data and pre-built analysis for easy access and reporting Portfolio Project Piotr Jagielski.twbx
+
 Contact
 For any questions, you can reach me at [peterjjagielski@gmail.com].
